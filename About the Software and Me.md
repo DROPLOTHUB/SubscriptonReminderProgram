@@ -14,12 +14,15 @@ that funciton at 100% of the time ;).
 
 About the Program:
 Basically this program will notify you about subscriptions e.g., Spotify, Amazon Prime stuff like that its endless. Right now the program will be on 
-window based systems in thr future Apple Android Linux but that will have to wait as i never made anything on those platforms, This Software will be Open to all
+window based systems in the future Apple Android Linux but that will have to wait as i never made anything on those platforms, This Software will be Open to all
 users and they can take my code make it better i dont mind. but please if you do take bits please give a thanks atleast :), and when the program comes to other devices 
 il try to keep it free but Apple may make it difficult if so il think of a funcky way of getting past it also the app wont be filled with Ads. i want it free and clean 
 and want no profit from it as im a nice guy.
 
 
+il start if this post gets attention form people searching for summit like this if so say in the Issues area saying if your intreaged or not 
 
 
 
+
+Thanks all.
