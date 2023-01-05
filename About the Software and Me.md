@@ -20,7 +20,7 @@ il try to keep it free but Apple may make it difficult if so il think of a funck
 and want no profit from it as im a nice guy.
 
 
-il start if this post gets attention from people searching for summit like this if so say in the Issues area saying if your intreaged or not 
+il start if this post gets attention from people searching for summit like this if so say in the Issues area saying if your intreasted or not 
 
 
 
